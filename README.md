@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new things.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me Email-akverma11aug2002@gmail.com
-- Skills: Frontend web developer, mastering Android development and python.
+- Skills: Frontend web developer, mastering react and python.
 
 <!---
 AmanKumarVerma11/AmanKumarVerma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
