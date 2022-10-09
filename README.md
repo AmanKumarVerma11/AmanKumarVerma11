@@ -1,4 +1,7 @@
-![Githubreadme](https://user-images.githubusercontent.com/93284136/147835178-43827a6e-65a2-4343-9e94-83dbe72f7138.jpeg)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Kumar Verma</h1>
+<h3 align="center">I'm a passionate Web Developer and Programmer from India.</h3>
 
 - 👋 Hi, I’m @AmanKumarVerma11
 - 👀 I’m interested in learning new things.
