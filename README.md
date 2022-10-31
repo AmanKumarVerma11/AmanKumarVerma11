@@ -22,9 +22,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## 📊 My Github Stats 🏆
-
+![](https://komarev.com/ghpvc/?username=AmanKumarVerma11&style=for-the-badge&color=blueviolet)
   <br/>
   <p align="center">
     <a href="https://github.com/AmanKumarVerma11/github-readme-stats"><img alt="AkV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmanKumarVerma11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "90%" /></a>
   </p>
-  
