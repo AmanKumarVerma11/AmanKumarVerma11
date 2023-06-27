@@ -53,6 +53,6 @@ You can click the Preview link to take a look at your changes.
   
   <br/>
   
-  [![Pranjal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmanKumarVerma11&theme=react-dark)](https://github.com/AmanKumarVerma11/github-readme-activity-graph)
+  [![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AmanKumarVerma11&theme=react-dark)](https://github.com/AmanKumarVerma11/github-readme-activity-graph)
    <!-- <a href="https://github.com/AmanKumarVerma11/github-readme-stats"><img alt="AkV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmanKumarVerma11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width = "90%" /></a> -->
    <img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
