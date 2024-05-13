@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Kumar Verma</h1>
 <h3 align="center">I'm a passionate Web Developer and Programmer from India.</h3>
+<p align="center"> <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AmanKumarVerma11&label=Profile%20Views&color=1&icon=0&pretty=true" />
+</a>
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/amaannn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</a> </p>
+<br>
 
 - 👋 Hi, I’m @AmanKumarVerma11
 - 👀 I’m interested in learning new things.
@@ -39,8 +47,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h1 align="center"> 📊 My Github Stats 🏆</h1>
-
-![](https://komarev.com/ghpvc/?username=AmanKumarVerma11&style=for-the-badge&color=red)
   <br/>
   <span>
  <a href="https://github.com/AmanKumarVerma11/github-readme-stats"><img alt="Aman Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmanKumarVerma11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -55,4 +61,12 @@ You can click the Preview link to take a look at your changes.
   
   ![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmanKumarVerma11&bg_color=060A0CD0&color=80ff00&line=b1ffb1&point=00ff00&area=true&hide_border=true)
    <!-- <a href="https://github.com/AmanKumarVerma11/github-readme-stats"><img alt="AkV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmanKumarVerma11&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" width = "90%" /></a> -->
+   <br>
+
+<h1 align="center"> ✍️ Random Dev Quote </h1> <br>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+<br>
    <img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
