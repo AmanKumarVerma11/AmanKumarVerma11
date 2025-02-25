@@ -1,21 +1,40 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Kumar Verma</h1>
-<h3 align="center">I'm a passionate Web Developer and Programmer from India.</h3>
-<p align="center"> <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AmanKumarVerma11&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
-  <br>
+<h3 align="center">I'm a passionate Software Engineer and Programmer from India.</h3>
+<p align="center">
+  
   <br>
   <a href="https://www.buymeacoffee.com/amaannn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </a> </p>
 <br>
 
-- 👋 Hi, I’m @AmanKumarVerma11
-- 👀 I’m interested in learning new things.
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me Email-akverma11aug2002@gmail.com
-- Skills: Frontend web developer, mastering react and python.
+---
+
+👋 Hi, I'm Aman Kumar Verma (@AmanKumarVerma11)  
+🚀 Passionate Backend Developer Intern at [Rablo.in](https://rablo.in/)  
+🎓 B.Tech (Information Technology) graduate from Inderprastha Engineering College, affiliated with AKTU  
+💡 Constantly learning and exploring new technologies  
+🤝 Looking to collaborate on exciting projects  
+
+### Skills:
+- **Backend Development**: Node.js, Python
+- **Frontend Development**: React, JavaScript, HTML, CSS
+- **Databases**: SQL, NoSQL (MongoDB)
+- **API Development**: RESTful APIs, Postman
+- **Version Control**: Git, GitHub
+- **Testing & Debugging**: Postman, Jest
+- **Project Management**: Team Coordination, Agile Methodologies
+
+### Reach Me:
+📫 Email: [akverma11aug2002@gmail.com](mailto:akverma11aug2002@gmail.com)  
+🌐 LinkedIn: [Aman Kumar Verma](https://www.linkedin.com/in/amankumarverma/)  
+🌟 Always open to new opportunities and collaborations!
+
+---
+  [![](https://visitcountpro.netlify.app/api?id=AmanKumarVerma11&pretty=true)](https://visitcount.itsvg.in)
+
+<br>
 
 <!---
 AmanKumarVerma11/AmanKumarVerma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,15 +48,20 @@ You can click the Preview link to take a look at your changes.
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <!--<a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>-->
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/express-js.png"/> </a>
+    <a href="https://www.postman.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/postman-api.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
 </p>
+
+
+<br>
 
 <h2 align="center">My Contribution Streak !! :fire:</h2>
 <p align="center">
@@ -45,6 +69,8 @@ You can click the Preview link to take a look at your changes.
         <img alt="AkV's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanKumarVerma11&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width = "70%" />
     </a>
 </p>
+
+<br>
 
 <h1 align="center"> 📊 My Github Stats 🏆</h1>
   <br/>
