@@ -23,7 +23,7 @@
 - **Databases**: SQL, NoSQL (MongoDB)
 - **API Development**: RESTful APIs, Postman
 - **Version Control**: Git, GitHub
-- **Testing & Debugging**: Postman, Jest
+- **Testing & Debugging**: Postman
 - **Project Management**: Team Coordination, Agile Methodologies
 
 ### Reach Me:
