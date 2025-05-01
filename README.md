@@ -12,7 +12,7 @@
 ---
 
 👋 Hi, I'm Aman Kumar Verma (@AmanKumarVerma11)  
-🚀 Passionate Backend Developer Intern at [Rablo.in](https://rablo.in/)  
+🚀 Software Development Engineer at [COOX](https://www.coox.in/)  
 🎓 B.Tech (Information Technology) graduate from Inderprastha Engineering College, affiliated with AKTU  
 💡 Constantly learning and exploring new technologies  
 🤝 Looking to collaborate on exciting projects  
