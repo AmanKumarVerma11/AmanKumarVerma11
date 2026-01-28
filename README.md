@@ -12,13 +12,13 @@
 ---
 
 👋 Hi, I'm Aman Kumar Verma (@AmanKumarVerma11)  
-🚀 Software Development Engineer at [COOX](https://www.coox.in/)  
+🚀 Full Stack Software Engineer at [SellAbroad](https://sellabroad.com/)
 🎓 B.Tech (Information Technology) graduate from Inderprastha Engineering College, affiliated with AKTU  
 💡 Constantly learning and exploring new technologies  
 🤝 Looking to collaborate on exciting projects  
 
 ### Skills:
-- **Backend Development**: Node.js, Python
+- **Backend Development**: Node.js, Express, Hono
 - **Frontend Development**: React, JavaScript, HTML, CSS
 - **Databases**: SQL, NoSQL (MongoDB)
 - **API Development**: RESTful APIs, Postman
