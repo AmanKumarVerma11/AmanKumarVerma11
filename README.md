@@ -12,7 +12,7 @@
 ---
 
 👋 Hi, I'm Aman Kumar Verma (@AmanKumarVerma11)  
-🚀 Full Stack Software Engineer at [SellAbroad](https://sellabroad.com/)
+🚀 Full Stack Software Engineer at [SellAbroad](https://sellabroad.com/)  
 🎓 B.Tech (Information Technology) graduate from Inderprastha Engineering College, affiliated with AKTU  
 💡 Constantly learning and exploring new technologies  
 🤝 Looking to collaborate on exciting projects  
